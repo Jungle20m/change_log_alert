@@ -1,0 +1,156 @@
+** Alert 1604283910.10297: mail  - syslog,dpkg,config_changed,
+2020 Nov 02 09:25:10 (soii-cms) 1.53.252.177->/var/log/dpkg.log
+Rule: 2902 (level 7) -> 'New dpkg (Debian Package) installed.'
+2020-11-02 02:17:06 status installed python-jinja2:all 2.10-1ubuntu0.18.04.1
+
+** Alert 1604283910.10565: mail  - syslog,dpkg,config_changed,
+2020 Nov 02 09:25:10 (soii-cms) 1.53.2252.177->/var/log/dpkg.log
+Rule: 2902 (level 7) -> 'New dpkg (Debian Package) installed.'
+2020-11-02 02:17:06 status installed python-cryptography:amd64 2.1.4-1ubuntu1.3
+
+** Alert 1604283910.10836: mail  - syslog,dpkg,config_changed,
+2020 Nov 02 09:25:10 (soii-cms) 1.53.252.177->/var/log/dpkg.log
+Rule: 2902 (level 7) -> 'New dpkg (Debian Package) installed.'
+2020-11-02 02:17:06 status installed python-paramiko:all 2.0.0-1ubuntu1.2
+
+** Alert 1604283918.11101: mail  - syslog,dpkg,config_changed,
+2020 Nov 02 09:25:18 (soii-cms) 1.53.252.177->/var/log/dpkg.log
+Rule: 2902 (level 7) -> 'New dpkg (Debian Package) installed.'
+2020-11-02 02:17:15 status installed ansible:all 2.9.14-1ppa~bionic
+
+** Alert 1604283918.11360: mail  - syslog,dpkg,config_changed,
+2020 Nov 02 09:25:18 (soii-cms) 1.53.252.177->/var/log/dpkg.log
+Rule: 2902 (level 7) -> 'New dpkg (Debian Package) installed.'
+2020-11-02 02:17:16 status installed man-db:amd64 2.8.3-2ubuntu0.1
+
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+
+** ALEART !!!!!!
+
+** ALEART 1234
+
+** ALEART 4567
+
+** hello log
+
+** Alert 1604283910.10565: mail  - syslog,dpkg,config_changed,
+2020 Nov 02 09:25:10 (soii-cms) 1.53.2252.177->/var/log/dpkg.log
+Rule: 2902 (level 7) -> 'New dpkg (Debian Package) installed.'
+2020-11-02 02:17:06 status installed python-cryptography:amd64 2.1.4-1ubuntu1.3
+
+** Alert 1604283918.11360: mail  - syslog,dpkg,config_changed,
+2020 Nov 02 09:25:18 (soii-cms) 1.53.252.177->/var/log/dpkg.log
+Rule: 2902 (level 7) -> 'New dpkg (Debian Package) installed.'
+2020-11-02 02:17:16 status installed man-db:amd64 2.8.3-2ubuntu0.1
+
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+** Alert 1604287766.11618: mail  - ossec,syscheck,
+2020 Nov 02 10:29:26 (soii-cms) 1.53.252.177->syscheck
+Rule: 550 (level 7) -> 'Integrity checksum changed.'
+Integrity checksum changed for: '/etc/nginx/conf.d/kb.sandbox.evnpoint.com.conf'
+Size changed from '451' to '454'
+Old md5sum was: '613fdc230e2fdab5e36a03e0278dc687'
+New md5sum is : '4b9fadf48d624a8e95b16110c35b59d9'
+Old sha1sum was: 'c7d98df3a5e4c0abd1aace2298972b504c33b5cd'
+New sha1sum is : '2724edefa8ceeb6a353ec9c08fea05b20b340883'
+** Aleart
+
+** ALEART
+
+** ALEART
+
+** ALEART
+
+** ALEART
+
+** ALEART
+** ALEART
+** ALEART
+
+** ALEART
+
+
+
+** ALEART
+** ALEART ** ALEART
+** ALEART ** ALEART
+** ALEART
+
+
+
+** ALEART ** ALEART
